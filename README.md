@@ -19,7 +19,7 @@
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=quadrified&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Coding-Nonny/github-readme-stats)
+  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=Coding-Nonny&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Coding-Nonny/github-readme-stats)
 
 ---
 
@@ -55,10 +55,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theophilus-chinonso-chikezie-2a4555237"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/nonny_theophilus?igshid=YmMyMTA2M2Y=)"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://www.facebook.com/theophilusnonny"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/facebook.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://instagram.com/nonny_theophilus?igshid=YmMyMTA2M2Y="><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://www.facebook.com/theophilusnonny"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/facebook.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="https://wa.me/message/SXGIV25TKXYOO1"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://t.me/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
