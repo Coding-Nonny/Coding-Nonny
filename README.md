@@ -1,17 +1,18 @@
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
-  <samp>
     ## I'm Nonny Theophilus :wave:
     <br><br>
+   <samp>
     I work as a Web :globe_with_meridians: developer!
     <br><br>
     I believe in a world where Milkshakes can solve any and all problems :grin:
     <br><br>
     I'm excited to share my skills, experience, and passion with you.
-    <br><br>
+     </samp>
+  <br><br>
     - P.S. I do know that HTML is not a programming language! :v:
-  </samp>
+  
 </p>
 
 <br>
