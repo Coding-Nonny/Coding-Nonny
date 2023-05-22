@@ -32,7 +32,7 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="jquery" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/sql.svg" alt="sql" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
@@ -58,7 +58,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/theophilus-chinonso-chikezie-2a4555237"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://instagram.com/nonny_theophilus?igshid=YmMyMTA2M2Y="><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://www.facebook.com/theophilusnonny"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/facebook.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
+  <a href="https://www.facebook.com/theophilusnonny"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/facebook.svg" width="30px" alt="facebook"></a> &nbsp; &nbsp;
   <a href="https://wa.me/message/SXGIV25TKXYOO1"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
 
