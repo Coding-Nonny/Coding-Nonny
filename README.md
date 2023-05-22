@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Nonny Theophilus :wave:
+    ## I'm Nonny Theophilus :wave:
     <br><br>
     I work as a Web :globe_with_meridians: developer!
     <br><br>
@@ -10,7 +10,7 @@
     <br><br>
     I'm excited to share my skills, experience, and passion with you.
     <br><br>
-    P.S. I do know that HTML is not a programming language! :v:
+    - P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
 
@@ -32,7 +32,6 @@
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/sql.svg" alt="sql" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
