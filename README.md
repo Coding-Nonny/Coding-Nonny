@@ -1,11 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+    <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   I'm Nonny Theophilus :wave:
-  </p>
   <br><br>
-<p align="center">
-    <br><br>
    <samp>
     I work as a Web :globe_with_meridians: developer!
     <br><br>
