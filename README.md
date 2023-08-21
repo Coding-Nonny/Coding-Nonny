@@ -58,7 +58,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/theophilus-chinonso-chikezie-2a4555237"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://instagram.com/nonny_theophilus?igshid=YmMyMTA2M2Y="><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://www.facebook.com/theophilusnonny"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/facebook.svg" width="30px" alt="facebook"></a> &nbsp; &nbsp;
   <a href="https://wa.me/message/SXGIV25TKXYOO1"><img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
 
